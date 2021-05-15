@@ -10,7 +10,7 @@ Name : reInstall
 
 Link : https://hard-gamers.com/Reinstall.zip or replace it with Link Then You Are Upload Reinstall.zip
 
-PostInstall : ./reinstall.sh
+PostInstall : bash reinstall.sh
 
 GameType : counter strike
 
