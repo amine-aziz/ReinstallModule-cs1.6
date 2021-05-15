@@ -10,7 +10,9 @@ Name : reInstall
 
 Link : https://hard-gamers.com/Reinstall.zip or replace it with Link Then You Are Upload Reinstall.zip
 
-PostInstall : chmod +x reinstall.sh
+PostInstall : 
+
+               chmod +x reinstall.sh
 
               ./reinstall.sh
 
