@@ -12,9 +12,9 @@ Link : https://hard-gamers.com/Reinstall.zip or replace it with Link Then You Ar
 
 PostInstall : 
 
-               chmod +x reinstall.sh
+    chmod +x reinstall.sh
 
-              ./reinstall.sh
+    ./reinstall.sh
 
 GameType : Counter Strike
 
