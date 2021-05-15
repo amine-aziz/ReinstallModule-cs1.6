@@ -7,9 +7,13 @@ It's easy for use it You Need to Just Follow Me.
 2_ Go To Addon Manager In Admin Menu On Your OpenGamePanel And Create New Addon
 
 Name : reInstall
+
 Link : https://hard-gamers.com/Reinstall.zip or replace it with Link Then You Are Upload Reinstall.zip
+
 PostInstall : ./reinstall.sh
+
 GameType : counter strike
+
 Addon Type : Config
 
 That's All , For Use It Just Go To AddonsManager and try to reinstall the server
