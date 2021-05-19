@@ -1,6 +1,6 @@
 // Reinstall Module For CS1.6 Server
 // Authors	: KaLoZz   |  ~ AM1N3 AZ1Z ~
-// Version	: 1.0
+// Version	: 1.1
 // Game    : CS1.6
 // Operating System : Linux "Ubuntu/Debian"
 // Working In : OpenGamePanel
