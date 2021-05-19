@@ -1,5 +1,5 @@
 // Reinstall Module For CS1.6 Server
-// Author	: KaLoZz   |  ~ AM1N3 AZ1Z ~
+// Authors	: KaLoZz   |  ~ AM1N3 AZ1Z ~
 // Version	: 1.0
 // Game    : CS1.6
 // Operating System : Linux "Ubuntu/Debian"
