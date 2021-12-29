@@ -1,27 +1,14 @@
-# Reinstall Module For cs1.6 servers in OGP
-This Module Was Created By ~ AM1N3 AZ1Z ~ All Right Reserved ©
-It's easy for use it You Need to Just Follow Me.
+# Reinstall Script For cs1.6 servers in Linux (Ubuntu/Debian)
 
-1_ Upload This Module In Your Hosting For Example Me I have Upload It Here : https://hard-gamers.com/Reinstall.zip
+This Script Was Created By ~ AM1N3 AZ1Z ~ All Right Reserved 
 
-2_ Go To Addon Manager In Admin Menu On Your OpenGamePanel And Create New Addon
+This Script Help you to reinstall your cs1.6 GameServer in just 1Click .
 
-Name : reInstall
+By the way You need To Change HLDS Link In Script or you can just use reHLDS
 
-Link : https://hard-gamers.com/Reinstall.zip or replace it with Link Then You Are Upload Reinstall.zip
+To Execute Please make sure the script are in GameServer Directory And Use This Commands:
 
-PostInstall : 
 
-    chmod +x reinstall.sh
-    ./reinstall.sh
-    rm -r reinstall.sh
+chmod +x reinstall.sh
 
-GameType : Counter Strike
-
-Addon Type : Config
-
-That's All , For Use It Just Go To AddonsManager and try to reinstall the server
-
-Special Thanks To KaLoZz
-
-If You Have Any Problem Or Question contact Me.
+./reinstall.sh
