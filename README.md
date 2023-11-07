@@ -1,14 +1,12 @@
 # Reinstall Script For cs1.6 servers in Linux (Ubuntu/Debian)
 
-This Script Was Created By ~ AM1N3 AZ1Z ~ All Right Reserved 
+This Script Was Created By ! A M 1 N E
 
-This Script Help you to reinstall your cs1.6 GameServer in just 1Click .
+Works in All Debian/Ubuntu Servers
+Change the reHLDS link file in the begin of script to yours
 
-By the way You need To Change HLDS Link In Script or you can just use reHLDS
-
-To Execute Please make sure the script are in GameServer Directory And Use This Commands:
-
-
-chmod +x reinstall.sh
-
-./reinstall.sh
+Make sure to have required package installed ( unzip ) or install it with : apt install unzip
+To Make script executable use this command : chmod +x reinstall.sh
+To Run The script use : ./reinstall.sh
+and it will do all their job.
+enjoy and don't forget credit.
