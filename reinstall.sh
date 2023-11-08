@@ -9,7 +9,7 @@ hlds_linux="hlds_linux"
 hlds_run="hlds_run"
 reHLDS="reHLDS.zip"
 
-# Trying to remove old reHLDS server files
+# Trying to remove old cs1.6 server files
 for file in *; do
   if [ "$file" != "reinstall.sh" ]; then
     [ -e "$file" ] && rm -r "$file"
