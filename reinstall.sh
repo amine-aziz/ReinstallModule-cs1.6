@@ -23,10 +23,6 @@ unzip -o "$reHLDS"
 if [ -d "$cstrike" ] && [ -f "$hlds_linux" ] && [ -f "$hlds_run" ]; then
 rm -r "$reHLDS"
 echo "Server reinstalled successfully!"
-sleep 1
-echo "Script Created By ! A M 1 N E"
-echo "Get More at : https://github.com/Amine-Aziz/"
-sleep 10
 
 else
   if [ -f "$reHLDS" ]; then
@@ -37,6 +33,8 @@ else
     echo "$reHLDS not found. script cannot complete reinstall."
   fi
 fi
+
+
 sleep 1
 echo "Script Created By ! A M 1 N E"
 echo "Get More at : https://github.com/Amine-Aziz/"
